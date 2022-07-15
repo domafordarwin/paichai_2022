@@ -1,2 +1,1 @@
 dataset-minivggnet3-epoch400-class4-imageSize256-weights-best-DA.hdf5 filter=lfs diff=lfs merge=lfs -text
-desktop.ini filter=lfs diff=lfs merge=lfs -text
